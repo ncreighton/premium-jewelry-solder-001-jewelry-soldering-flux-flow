@@ -1,0 +1,2 @@
+# premium-jewelry-solder-001-jewelry-soldering-flux-flow
+Tired of messy soldering desks and losing track of which flux you used for that delicate filigree? The Jewelry Soldering &amp; Flux Flow Craft Studio is your organized blueprint for a flawless, repeatable soldering process.  This Notion template transforms your chaotic workbench into a streamlined studio by centralizing flux inventory, soldering logs,
